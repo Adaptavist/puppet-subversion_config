@@ -1,4 +1,5 @@
 # puppet-subversion_config
+[![Build Status](https://travis-ci.org/Adaptavist/puppet-subversion_config.svg?branch=master)](https://travis-ci.org/Adaptavist/puppet-subversion_config)
 
 A puppet module for managing and configuring subversion module and creating custom repos
 

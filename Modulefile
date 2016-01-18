@@ -1,5 +1,5 @@
 name 'adaptavist-subversion_config'
-version '0.1.5'
+version '0.1.6'
 source 'https://github.com/Adaptavist/puppet-subversion_config.git'
 author 'adaptavist'
 summary 'subversion config module' 
