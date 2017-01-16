@@ -11,7 +11,7 @@ describe 'subversion_config', :type => 'class' do
     }}
   
     it do
-      should contain_subversion
+      should contain_class('subversion')
       should contain_subversion__svnrepo('repo1').with_path('/tmp/repo1')
     end
   
