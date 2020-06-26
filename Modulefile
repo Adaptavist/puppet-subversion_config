@@ -1,4 +1,4 @@
-name 'adaptavist-subversion '1.0.0'
+name 'adaptavist-subversion '1.0.1'
 version '1.0.0'
 source 'https://github.com/Adaptavist/puppet-subversion '1.0.0'
 author 'adaptavist'
